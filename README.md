@@ -55,7 +55,7 @@ I'm a passionate and results-driven front-end developer with a proven track reco
 * **Lokinter** | [lokinter app](http://dev.lokinter.com/)
     * A worldwide app for delivery services.
 * **IT-ARM** | [IT-ARM website](https://it-arm.com/)
-    * A worldwide app for delivery services.
+    * IT company profile website
 
 **Contact**
 
