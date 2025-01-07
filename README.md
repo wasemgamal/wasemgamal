@@ -1,4 +1,5 @@
-# Wasem Gamal 
+**Hey 👋 What's up?**
+# I'm Wasem Gamal 
 
 **Senior Front-End Developer** | ✨ Angular ✨ Vue.js ✨
 
