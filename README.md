@@ -8,7 +8,7 @@ I'm a passionate and results-driven front-end developer with a proven track reco
 
 **Skills**
 
-* **Frameworks:** Angular, Vue.js, React (Optional)
+* **Frameworks:** Angular, Vue.js
 * **Languages:** JavaScript (ES6+), TypeScript
 * **CSS:** CSS3, Sass/Less, Flexbox, Grid
 * **Testing:** Unit Testing (Jest, Jasmine, Mocha)
@@ -50,14 +50,17 @@ I'm a passionate and results-driven front-end developer with a proven track reco
 
 **Projects**
 
-* **GIB** | [https://gib-v2.netlify.app/]
+* **GIB** | [GIB app](https://gib-v2.netlify.app/)
     * A Saudi Arabian car insurance aggregator.
-* **Lokinter** | [http://dev.lokinter.com/]
-    * A worldwide app for delivery service.
+* **Lokinter** | [lokinter app](http://dev.lokinter.com/)
+    * A worldwide app for delivery services.
+* **IT-ARM** | [IT-ARM website](https://it-arm.com/)
+    * A worldwide app for delivery services.
 
 **Contact**
 
 * ✉️ engwasem20@gmail.com
+* 📞 +201023914909
 * 🔗 https://www.linkedin.com/in/wasemgamal
 * 🌐 https://www.fiverr.com/wasem_gamal
 
