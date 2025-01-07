@@ -59,11 +59,11 @@ I'm a passionate and results-driven front-end developer with a proven track reco
 
 **Contact**
 
-* ✉ [Reach me on email](engwasem20@gmail.com)
-* 📞 [Call me by phone](tel:+201023914909)
-* 💬 [Chat on whatsapp](https://wa.me/+20102394909)
-* 🔗 [LinkedIn profile](https://www.linkedin.com/in/wasemgamal)
-* 🌐 [Have a look on my **Fiverr** profile](https://www.fiverr.com/wasem_gamal)
+* ✉ <a href="mailto:engwasem20@gmail.com" target="_blank">Reach me on email</a>
+* 📞 <a href="tel:+201023914909" target="_blank">Call me by phone</a>
+* 💬 <a href="https://wa.me/+201023914909" target="_blank">Chat on whatsapp</a>
+* 🔗 <a href="https://www.linkedin.com/in/wasemgamal" target="_blank">LinkedIn profile</a>
+* 🌐 <a href="https://www.fiverr.com/wasem_gamal" target="_blank">Have a look on my **Fiverr** profile</a>
 
 **Let's Connect**
 
