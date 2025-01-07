@@ -35,7 +35,7 @@ I'm a passionate and results-driven front-end developer with a proven track reco
     * Reports, Financial Operations, Exporting and importing.
     * Skills: JavaScript · Object-Oriented Programming (OOP) · SOLID Design Principles · TypeScript · Nuxt.js · Design Patterns · PDF Management · Vue.js
 
-* **JeelAIDM ** | Software Engineer | Front-End Developer | Apr 2022 - Mar 2023
+* **JeelAIDM** | Software Engineer | Front-End Developer | Apr 2022 - Mar 2023
     * LMS Systems with online sessions by video meeting service provider integration.
     * Skills: JavaScript · AngularJS · TypeScript · Vue.js · Angular
 
